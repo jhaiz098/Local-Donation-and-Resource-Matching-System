@@ -1,3 +1,12 @@
 body {
 	font-family: 'Verdana';
 }
+.border-right-1 {
+	border-right: 1px solid grey;
+}
+.border-right-2 {
+	border-right: 4px solid grey;
+}
+.border-right-3 {
+	border-right: 8px solid grey;
+}
